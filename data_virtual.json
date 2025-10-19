@@ -1,0 +1,122 @@
+[
+  {
+    "time": "2025-10-18 23:45:11.084328",
+    "temp": 23.9,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:12.086266",
+    "temp": 21.3,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:13.088096",
+    "temp": 25.5,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:14.089199",
+    "temp": 23.0,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:15.090591",
+    "temp": 26.0,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:16.092650",
+    "temp": 27.3,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:17.094902",
+    "temp": 24.0,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:18.096563",
+    "temp": 50.4,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:19.098128",
+    "temp": 26.5,
+    "anomaly": false,
+    "led": false
+  },
+  {
+    "time": "2025-10-18 23:45:20.099856",
+    "temp": 26.8,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:21.103681",
+    "temp": 23.4,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:22.212207",
+    "temp": 27.4,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:23.307052",
+    "temp": 24.6,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:24.385390",
+    "temp": 26.2,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:25.470718",
+    "temp": 27.0,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:26.563250",
+    "temp": 27.3,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:27.653458",
+    "temp": 26.9,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:28.743627",
+    "temp": 29.7,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:29.847254",
+    "temp": 23.5,
+    "anomaly": "False",
+    "led": "False"
+  },
+  {
+    "time": "2025-10-18 23:45:30.946540",
+    "temp": 24.0,
+    "anomaly": "False",
+    "led": "False"
+  }
+]
